@@ -15,7 +15,7 @@ FAISALMTA0MzQ=8-a-9NC4xNC4xODAtcGVyZis=  brsh
 FAISALMTAyMzY=8-a-9NC4xOS4xNTctcGVyZis=  mosin 2
 FAISALMTAyNDE=8-a-9NC4xOS4xMjctZzYwNjY2Y2I1MDkyZC1kaXJ0eQ==  amaar
 FAISALMTAzODc=8-a-9NC4xOS4xMjctMDA5MTMtZzc1MTg2NmI5M2ZiYi1kaXJ0eQ==
-FAISALMTAxMjI=8-a-9NC45LjExNys= zad
+ FAISALMTAyMDc=8-a-9NC45LjE5MCs= zds
                permint
                expiry
  nov 5
