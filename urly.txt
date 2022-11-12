@@ -1,6 +1,6 @@
 FAISALMTAyMTk=8-a-9NC45LjgyLXBlcmYr  mosin mian jee
 FAISALMTAyOTQ=8-a-9NC4xOS4xNTctcGVyZi1nNDg1NTZkNzZkOWMx mainer
-FAISALMTAxODE=8-a-9NC4xOS4xNTctcGVyZis=   babu
+FAISALMTAxODE=8-a-9NC4xOS4xNTVyZis=   babu
 FAISALMTAyMDI=8-a-9NC4xNC4xNDEr micron
 FAISALMTAxODI=8-a-9NC45LjE5MCs= tiger
 FAISALMTAzOTE=8-a-9NC45LjE5MCs= tig
@@ -16,6 +16,10 @@ FAISALMTAyMzY=8-a-9NC4xOS4xNTctcGVyZis=  mosin 2
 FAISALMTAyNDE=8-a-9NC4xOS4xMjctZzYwNjY2Y2I1MDkyZC1kaXJ0eQ==  amaar
 FAISALMTAzODc=8-a-9NC4xOS4xMjctMDA5MTMtZzc1MTg2NmI5M2ZiYi1kaXJ0eQ==
  FAISALMTAyMDc=8-a-9NC45LjE5MCs= zds
+ FAISALMTAzNDU=8-a-9NC4xOS4xMzYtcGVyZis= rhl
+ 
+ 
+ 
                permint
                expiry
  nov 5
