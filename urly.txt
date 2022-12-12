@@ -33,7 +33,8 @@ FAISALMTA2MDU=8-a-9NC45LjgyKw== anss xd
 FAISALMTAyMjE=8-a-9NC4xNC4xODYtZzUwMWQyMTk1YmM3MS1kaXJ0eQ==
 FAISALMTAxMTA=8-a-9NC45LjE5MCs=  moto one 5g ace
 FAISALMTAxNzU=8-a-9My4xOC43MS1wZXJmLWc3ZjljOTZiNTlkOTU= moto z force
-          permint
+FAISALMTAyNDA=8-a-9NC4xOS4xOTEtZ2RmNzc1YTc0OGU2My1kaXJ0eQ== arff   
+        permint
                expiry
  
 dec 2
