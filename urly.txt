@@ -43,24 +43,11 @@ FAISALMTAyMTk=8-a-9NC45LjgyLXBlcmYr mosin new mbl
                permint
     FAISALMTAyOTU=8-a-9NC4xNC4xMTMtMjE1NzgzNzY=           
                
-               monthly token
-    FAISALMTAyMDY=8-a-9NC4xOS4xMjctZzZhOWViYjQ3Zi1kaXJ0eQ==        
- 
- 
+               monthly toke   
                feb 15
-      FAISALMTAyOTE=8-a-9NC45LjE5MCs=         
-               feb 31
+ 
+
              
-feb 16
-FAISALMTA2MzA=8cGVyZis=
-FAISALMTAyMzM=8-a-DEr
-FAISALMTAzOTAWU1Nzg2LWRpcnR5
-FAISALMTA1MzxNDEr
-FAISALMTAzdlMjQx0eQ==
-FAISALMTAzNDRhMTgeQ==
-feb 17
-FAISALMTAzOTU=8-a-9NC4xOS4xMjctZ2UyNzVkNzhmZC1kaXJ0eQ==
-FAISALMTAyMjQ=8-a-9NC4xOS4xOTEtZzJmYTk1YzAzYTBkNS1kaXJ0eQ==
 feb 18
 FAISALMTAzMjg=8-a-9NC4xOS4xMTMtcGVyZi1nMDFiNGMwYmM2MzE1
 FAISALMTAxNzI=8-a-9NC4xNC4xODYtZzdjMTg5NTJkM2M2OA==
@@ -193,6 +180,9 @@ FAISALMTAyNDY=8-a-9NC45LjIyNy1wZXJmKw==
 mar 2
 FAISALMTAzNjI=8-a-9NC4xNC4xNDEr
 FAISALMTA0MTg=8-a-9NC4xOS4xNTctcGVyZi1nYTJmNjE0MGFlNmJk
+FAISALMTAwMjc=8-a-9NC45LjExNys=
+FAISALMTAyNDA=8-a-9NC4xNC4xODYr
+
 
 
 
