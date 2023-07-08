@@ -5,7 +5,8 @@ FAISALMTAyNjA=8-a-9NC4xNC4xODYtMjQwODQyMzg= muzamall
 FAISALMTAyNjA=8-a-9NC4xNC4xODYtMjU2ODE1NjA= muzmall
 FAISALMTAxMjI=8-a-9NC45LjEwNi1wZXJmKw==  faizan
 FAISALMTAyNDc=8-a-9NC4xOS4xNTctcGVyZi1nY2JkNjRiMTAyODY0  nomi
-
+FAISALMTA0NzA=8-a-9NC4xNC4xODAtcGVyZ   asad mughal
+FAISALMTAyMjA=8-a-9NC4xNC4xNDEr charli chf
                permint
 
                ....monthly token
