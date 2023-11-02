@@ -21,6 +21,16 @@ ali
 FAISALMTAxOTQ=8-a-9NC4xNC4xNDEr
 FAISALMTA0OTk=8-a-9NC4xNC4xOTAtcGVyZi1nOTM2NWI3ZDZmYjA4 kam radiographer
                permint
+
+monthly
+asif
+FAISALMTAyNzc=8-a-9NC4xOS4xNTctcGVyZis=
+FAISALMTAyODk=8-a-9NC4xOS4xNTctcGVyZis=
+FAISALMTAyNTE=8-a-9NC4xOS44MS1wZXJmKw==
+FAISALMTAyODc=8-a-9NC4xOS4xNTctcGVyZis=
+
+
+
 waqas w
 FAISALMTAzMDQ=8-a-9NC4xNC4xODYtZzFkMjU2NGJhM2VlYi1kaXJ0eQ==
                ....monthly token
