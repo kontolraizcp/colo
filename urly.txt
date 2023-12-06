@@ -42,8 +42,10 @@ FAISALMTAwNTA=8-a-9NC4xNC4xNDEr muzamal
 
 waqas w
                ....monthly token
-FAISALMTAzNDA=8-a-9NS40LjIxMC1tb3RvLWdmZjBlZWU5NmY0NmY= rizwan nov 2
-15nov
+arslan don
+FAISALMTAyODQ=8-a-9NS40LjIzMy1xZ2tpLWcxODJlMjg5ZmM5MzM=
+
+nov 6 upwla
 FAISALMTAyNDk=8-a-9NC4xOS4xMjctZ2M2NjFhODItZGlydHk=
 FAISALMTAyMzk=8-a-9NC4xOS4xOTEtZzMxNDUxMDQ3ZDM5NS1kaXJ0eQ== arif
 ......
@@ -64,10 +66,5 @@ FAISALMTAyOTM=8-a-9NC4xOS4yNzgtZzdiMDk0NDY0NTE3Mi1hYjEwODEyODE0
 
 
 
-
-
-jan 5
-FAISALMTAyNTM=8-a-9NC4xNC4xODAtcGVyZi1nNWQ2ZjM3Nw==
-azbijan
 
 
