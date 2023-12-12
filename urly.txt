@@ -31,6 +31,8 @@ FAISALMTA0OTk=8-a-9NC4xNC4xOTAtcGVyZi1nOTM2NWI3ZDZmYjA4 kam radiographer
                permint
 FAISALMTAyMDE=8-a-9NC4xOS4xOTEtZzQ0N2ZiODM0MTBjOC1kaXJ0eQ==
 monthly
+start 12 dec rizwan
+FAISALMTAzMzU=8-a-9NS40LjIxMC1tb3RvLTAwMzQyLWdiMDhjMTFlNjFjYjk=
 
 nadem start nov 2 wnd dec 
 FAISALMTAyMzE=8-a-9NC4xOS4xOTEtZzA4MDAxYmJhZjlhNS1kaXJ0eQ==
