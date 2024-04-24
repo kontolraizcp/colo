@@ -9,7 +9,7 @@ FAISALMTAxODM=8-a-9NC4xNC4xNDEr note 7 present
 FAISALMTAxOTU=8-a-9NC4xNC4xNDEr zewro 8
 FAISALMTAxOTI=8-a-9NC4xNC4xNDEr  techno pova
 FAISALMTAxNjk=8-a-9NC4xNC4xNDEr faizan mand
-
+FAISALMTAyMDE=8-a-9NC4xNC4xNDEr note 8i blue
 
 
 
