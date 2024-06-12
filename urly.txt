@@ -25,8 +25,4 @@ FAISALMTAxNTU=8-a-9NC4xNC4xNDEr
 
 test aprval for nomi
 FAISALMTAyOTQ=8-a-9NC4xOS4xOTEr
-wb test aorvaal
-FAISALMTAxOTE=8-a-9NC4xNC4xNDEr
-
-
 
